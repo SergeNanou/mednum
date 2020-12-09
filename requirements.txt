@@ -144,7 +144,7 @@ scipy==1.5.4
 seaborn==0.11.0
 Send2Trash==1.5.0
 service-identity==18.1.0
-shapely --no-binary shapely
+shapely 
 six==1.15.0
 smmap==3.0.4
 snuggs==1.4.7
