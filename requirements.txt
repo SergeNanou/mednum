@@ -4,7 +4,7 @@ dask
 datashader==0.10.0
 geojson==2.5.0
 geopandas==0.8.1
-geoviews==1.8.2
+geoviews
 holoviews==1.13.4
 jupyter
 jupyterlab
