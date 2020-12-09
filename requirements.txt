@@ -121,6 +121,7 @@ pycparser==2.20
 pyct==0.4.8
 pygal==2.4.0
 Pygments==2.7.3
+pygeos
 PyHamcrest==2.0.2
 pyOpenSSL==20.0.0
 pyparsing==2.4.7
