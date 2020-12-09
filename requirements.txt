@@ -170,4 +170,3 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 xlrd==1.2.0
 zope.event==4.5.0
-zope.interface==5.2.0
