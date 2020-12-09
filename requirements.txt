@@ -22,5 +22,5 @@ scipy==1.5.2
 snappy
 tornado==6.0.4
 tqdm==4.50.0
-nodejs>=10.13.0
+nodejs
 pygal
