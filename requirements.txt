@@ -1,7 +1,7 @@
 bokeh>=2.2.1
 colorcet==2.0.2
 dask
-dask-core==2.29.0
+dask-core
 datashader==0.10.0
 geojson==2.5.0
 geopandas==0.8.1
