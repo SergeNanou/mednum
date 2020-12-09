@@ -155,7 +155,7 @@ threadpoolctl==2.1.0
 toml==0.10.2
 toposort==1.5
 tornado==6.1
-tqdm==4.54.1
+tqdm
 traitlets==5.0.5
 Twisted==20.3.0
 txaio==20.4.1
