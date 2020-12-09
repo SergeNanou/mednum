@@ -68,6 +68,7 @@ humanfriendly==9.0
 hvplot==0.7.0
 hyperlink==20.0.1
 idna==2.10
+metpy
 incremental==17.5.0
 ipykernel==5.3.4
 ipython
