@@ -14,7 +14,7 @@ black==20.8b1
 bleach==3.2.1
 bokeh==2.2.3
 numpy==1.8.2
-"Cartopy-0.17.0-cp36-cp36m-win_amd64.whl"
+Cartopy-0.17.0-cp36-cp36m-win_amd64.whl
 certifi==2020.12.5
 cffi==1.14.4
 channels==3.0.2
