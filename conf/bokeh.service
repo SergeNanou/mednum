@@ -1,0 +1,11 @@
+[Unit]
+Description=Bokeh server instance
+After=network.target
+
+[Service]
+User=root
+Group=root
+ExecStart=/root/anaconda3/bin/panel serve /root/test_applis/app --port 5006 --host 165.22.72.232
+
+[Install]
+WantedBy=multi-user.target

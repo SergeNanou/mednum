@@ -1,1 +1,0 @@
-web: panel serve --address="0.0.0.0" --port=$PORT pan/mednumapp.py --allow-websocket-origin=mednu.herokuapp.com
